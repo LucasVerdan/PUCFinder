@@ -1,0 +1,4 @@
+#Thu Jun 03 12:23:55 BRT 2021
+base.0=/Users/lucas.moreira/Documents/Puc/PUC_finder/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

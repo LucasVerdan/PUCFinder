@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lucas.moreira/Documents/Puc/PUC_finder/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/lucas.moreira/.gradle/caches/transforms-2/files-2.1/a40c99465213d27075328fb68c4872cc/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/lucas.moreira/Documents/Puc/PUC_finder/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/lucas.moreira/.gradle/caches/transforms-2/files-2.1/a40c99465213d27075328fb68c4872cc/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/lucas.moreira/Documents/Puc/PUC_finder/build/location/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/lucas.moreira/.gradle/caches/transforms-2/files-2.1/a40c99465213d27075328fb68c4872cc/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    }
+]
